@@ -1,13 +1,6 @@
 # Ride-Booking-Microservices-System
 # 🚖 Online Ride Booking System (Microservices)
 
-link of other Repositories
-      - https://github.com/Sourabh158/EcoRide-Ride-Service
-      - https://github.com/Sourabh158/EcoRide-Deploy-User
-      - https://github.com/Sourabh158/API-GATEWAY
-      - https://github.com/Sourabh158/EcoRide-Deploy-Notification
-      - https://github.com/Sourabh158/Service-Registry
-
 ### 🚀 Overview
 **Online Ride Booking System** is a scalable, backend microservices application designed to mimic core functionalities of apps like **Uber/Ola**. Built using **Java, Spring Boot, and Spring Cloud**, it features independent services for user management and ride processing, communicating seamlessly via **REST APIs**.
 
@@ -32,10 +25,10 @@ This project is divided into multiple independent services. Click the links belo
 
 | Service Name | Description | Repository Link |
 | :--- | :--- | :--- |
-| **User Service** | Manages Rider/Driver registration and profiles. | [🔗 Link to User-Service Repo](YAHAN_APNA_USER_SERVICE_KA_LINK_DALO) |
-| **Ride Service** | Handles ride booking, fare calculation, and trip logic. | [🔗 Link to Ride-Service Repo](YAHAN_APNA_RIDE_SERVICE_KA_LINK_DALO) |
-| **Service Registry** | Netflix Eureka Server for Service Discovery. | [🔗 Link to Eureka-Server Repo](YAHAN_APNA_EUREKA_REPO_KA_LINK_DALO) |
-| **API Gateway** | (Optional) Central entry point for all requests. | [🔗 Link to Gateway Repo](AGAR_HAI_TOH_LINK_DALO_VARNA_HATA_DO) |
+| **User Service** | Manages Rider/Driver registration and profiles. | [🔗 Link to User-Service Repo](https://github.com/Sourabh158/EcoRide-Deploy-User) |
+| **Ride Service** | Handles ride booking, fare calculation, and trip logic. | [🔗 Link to Ride-Service Repo]( https://github.com/Sourabh158/EcoRide-Ride-Service) |
+| **Service Registry** | Netflix Eureka Server for Service Discovery. | [🔗 Link to Eureka-Server Repo](https://github.com/Sourabh158/Service-Registry) |
+| **API Gateway** | (Optional) Central entry point for all requests. | [🔗 Link to Gateway Repo](https://github.com/Sourabh158/API-GATEWAY) |
 
 ---
 
